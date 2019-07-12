@@ -17,7 +17,7 @@ import com.news.frame.util.ViewHolder;
 import java.lang.ref.WeakReference;
 
 /**
- * Created :Auser
+ * Created :
  * Date: 2019/5/13.
  * Desc:PopupWindow 基类
  */

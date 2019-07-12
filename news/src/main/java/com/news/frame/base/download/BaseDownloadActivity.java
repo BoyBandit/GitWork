@@ -15,7 +15,7 @@ import com.news.frame.presenter.download.DownLoadPresenter;
 import java.lang.reflect.ParameterizedType;
 
 /**
- * @author Auser
+ * @author
  * @create 2019-04-03
  * @Desc:下载基类
  */

@@ -13,9 +13,9 @@ import com.news.frame.util.ViewHolder;
 
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/7/13 0013
- * Email:1054750389@qq.com
+ *
  * Desc:添加状态布局
  * https://www.jianshu.com/p/7ab318b0d3ba
  */

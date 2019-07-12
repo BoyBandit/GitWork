@@ -6,7 +6,7 @@ import android.view.Gravity;
 import android.view.ViewGroup;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Date:2019/7/3.
  * Desc:
  */

@@ -1,7 +1,7 @@
 package com.news.frame.bean;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/17 0017
  * Desc:下载状态
  */

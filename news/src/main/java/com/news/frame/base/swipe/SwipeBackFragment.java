@@ -12,9 +12,9 @@ import com.news.frame.base.swipe.core.SwipeBackLayout;
 import com.news.frame.presenter.MvpPresenter;
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/8/13 0013
- * Email:1054750389@qq.com
+ *
  * Desc:滑动的Fragment
  */
 

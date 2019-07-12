@@ -9,7 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.DisplayMetrics;
 
 /**
- * @author Auser
+ * @author
  * @create 2019-03-28
  * @Desc:Recylerview LayoutManager
  */

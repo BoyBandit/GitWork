@@ -6,7 +6,7 @@ import okhttp3.Interceptor;
 import okhttp3.Response;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/15 0015
  * Desc:拦截下载日志
  */

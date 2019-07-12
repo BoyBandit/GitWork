@@ -9,8 +9,8 @@ import com.news.frame.R;
 
 
 /**
- * Created by Administrator on 2018/2/10.
- * Auther:ruiwen
+ *  Created by boy Administrator on 2018/2/10.
+ * Auther:
  * 数据加载dialog
  */
 

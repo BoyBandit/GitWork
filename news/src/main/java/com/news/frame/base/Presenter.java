@@ -1,8 +1,8 @@
 package com.news.frame.base;
 
 /**
- * Created by Administrator on 2018/1/30.
- * Auther:ruiwen
+ *  Created by boy Administrator on 2018/1/30.
+ * Auther:
  */
 
 public interface Presenter<V> {

@@ -9,9 +9,9 @@ import com.news.frame.base.Presenter;
 import java.lang.ref.WeakReference;
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/6/27 0027
- * Email:1054750389@qq.com
+ *
  * Desc:
  */
 

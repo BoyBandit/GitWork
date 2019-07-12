@@ -32,7 +32,7 @@ import me.yokeyword.fragmentation.ISupportFragment;
 /**
  * Thx https://github.com/ikew0ng/SwipeBackLayout.
  * <p>
- * Created by YoKey on 16/4/19.
+ *  Created by boy YoKey on 16/4/19.
  */
 public class SwipeBackLayout extends FrameLayout {
     /**

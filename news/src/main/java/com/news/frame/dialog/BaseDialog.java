@@ -16,7 +16,7 @@ import com.news.frame.util.ViewHolder;
 import java.lang.ref.WeakReference;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2018/12/28 0028
  * Desc:dialog 基类
  */

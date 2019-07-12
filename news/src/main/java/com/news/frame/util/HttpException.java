@@ -1,7 +1,7 @@
 package com.news.frame.util;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/18 0018
  * Desc:异常检测
  */

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.ruiwenliu.wrapper.weight.refresh.SimpleRefreshLayout
+<com.liu.wrapper.weight.refresh.SimpleRefreshLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:id="@+id/refresh"
     android:layout_height="match_parent">
      <include layout="@layout/common_rv"/>
-</com.ruiwenliu.wrapper.weight.refresh.SimpleRefreshLayout>
+</com.liu.wrapper.weight.refresh.SimpleRefreshLayout>

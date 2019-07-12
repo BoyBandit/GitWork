@@ -9,7 +9,7 @@ import com.news.frame.inter.downListener.DownloadProgressListener;
 import io.reactivex.observers.DisposableObserver;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/19 0019
  * Desc:
  */

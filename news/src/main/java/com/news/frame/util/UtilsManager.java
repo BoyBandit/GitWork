@@ -21,8 +21,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by Administrator on 2018/2/1.
- * Auther:ruiwen
+ *  Created by boy Administrator on 2018/2/1.
+ * Auther:
  * app工具类
  */
 

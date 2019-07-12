@@ -11,7 +11,7 @@ import org.greenrobot.greendao.annotation.Keep;
 import org.greenrobot.greendao.annotation.Transient;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/16 0016
  * Desc:数据实体类
  */

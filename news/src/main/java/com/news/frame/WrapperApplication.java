@@ -12,7 +12,7 @@ import me.jessyan.autosize.AutoSizeConfig;
 import me.jessyan.autosize.onAdaptListener;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2018/12/19 0019
  * Desc:
  */

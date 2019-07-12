@@ -21,8 +21,8 @@ import butterknife.ButterKnife;
 import me.yokeyword.fragmentation.SupportActivity;
 
 /**
- * Created by Administrator on 2018/2/11.
- * Auther:ruiwen
+ *  Created by boy Administrator on 2018/2/11.
+ * Auther:
  * desc:适配、初始化
  */
 
@@ -40,7 +40,7 @@ public abstract class BaseWrapperActivity extends SupportActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //获取类名
-//        RuiwenAppliction.getInstance().activityName=this.getClass().getSimpleName();
+//        Appliction.getInstance().activityName=this.getClass().getSimpleName();
         handleBeforeSetLayout();//设置布局之前的操作
         setContentView(R.layout.base_layout);
         intiBaseView();

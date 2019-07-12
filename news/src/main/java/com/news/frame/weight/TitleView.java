@@ -10,7 +10,7 @@ import android.widget.TextView;
 import com.news.frame.R;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2018/12/20 0020
  * Desc:标题栏
  */

@@ -4,7 +4,7 @@ import com.news.frame.base.BaseView;
 import com.news.frame.bean.DownloadData;
 
 /**
- * @author Auser
+ * @author
  * @create 2019-04-03
  * @Desc:
  */

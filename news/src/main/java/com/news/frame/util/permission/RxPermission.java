@@ -17,7 +17,7 @@ import io.reactivex.functions.Function;
 import io.reactivex.subjects.PublishSubject;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2018/9/10 0010
  * Desc:
  */

@@ -22,9 +22,9 @@ import butterknife.Unbinder;
 import me.yokeyword.fragmentation.SupportFragment;
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/7/13 0013
- * Email:1054750389@qq.com
+ *
  * Desc:
  */
 

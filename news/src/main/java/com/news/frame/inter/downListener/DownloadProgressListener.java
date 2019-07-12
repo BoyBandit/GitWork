@@ -1,7 +1,7 @@
 package com.news.frame.inter.downListener;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/15 0015
  * Desc:下载进度监听
  */

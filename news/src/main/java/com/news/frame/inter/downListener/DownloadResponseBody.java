@@ -11,7 +11,7 @@ import okio.Okio;
 import okio.Source;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/15 0015
  * Desc:自定义下载进度
  */

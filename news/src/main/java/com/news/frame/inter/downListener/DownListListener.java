@@ -5,7 +5,7 @@ import com.news.frame.base.download.DownView;
 import com.news.frame.bean.DownloadData;
 
 /**
- * Created by Amuse
+ *   Created by boy
  * Data:2019/1/19 0019
  * Desc:
  */

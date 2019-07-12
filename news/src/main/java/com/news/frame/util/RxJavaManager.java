@@ -16,7 +16,7 @@ import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created :Auser
+ * Created :
  * Date: 2019/5/14.
  * Desc:Rxjava工具类
  */

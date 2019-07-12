@@ -15,9 +15,9 @@ import com.news.frame.presenter.MvpPresenter;
 import com.news.frame.util.ViewHolder;
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/7/16 0016
- * Email:1054750389@qq.com
+ *
  * Desc:状态布局
  */
 

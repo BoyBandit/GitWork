@@ -15,9 +15,8 @@ import com.news.frame.presenter.WrapperPresenter;
 import java.lang.reflect.ParameterizedType;
 
 /**
- * Created by ruiwen
+ *  Created by boy
  * Data:2018/7/3 0003
- * Email:1054750389@qq.com
  * Desc:网络层初始化
  */
 
