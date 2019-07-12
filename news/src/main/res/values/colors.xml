@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--ruiwen-->
+    <color name="colorMain">#008B8B</color>
+    <color name="colorGreen">#767f86</color>
+    <color name="colorWrite">#ffffff</color>
+    <color name="colorLine">#eeeeee</color>
+    <color name="colorYellow">#F1CE46</color>
+    <color name="colorBg">#e71a41</color>
+    <color name="text_Main">#333333</color>
+    <color name="text_Gray">#999999</color>
+
+
+    <!--=========================================房车颜色========================================================-->
+    <color name="colorAuxiliaryYellow">#f3dd23</color>
+    <color name="colorAuxiliaryGreen">#47e29a</color>
+    <color name="colorAuxiliaryRed">#f25b5b</color>
+    <color name="colorGrayBg">#f2f2f2</color>
+    <color name="colorGray">#cccccc</color>
+    <color name="colorBgYellow">#F8F3C9</color>
+    <color name="textMain">#333333</color>
+    <color name="textGray">#666666</color>
+    <color name="textLightGrey">#999999</color>
+    <color name="bgAlpha">#e0000000</color>
+    <color name="stateColor">#3A3938</color>
+
+    end
+</resources>
